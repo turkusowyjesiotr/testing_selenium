@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 10 18:05:41 CEST 2022","Wed Aug 10 18:05:42 CEST 2022","1325","","login_test","TestLogIn","","","test_log_in_passed",""
+"passed","Wed Aug 10 18:05:46 CEST 2022","Wed Aug 10 18:05:47 CEST 2022","985","","login_test","TestLogIn","","","test_log_in_failed",""
+"passed","Wed Aug 10 18:05:36 CEST 2022","Wed Aug 10 18:05:37 CEST 2022","1315","","create_account_test","TestCreateAccount","","","test_create_account_failed",""
+"passed","Wed Aug 10 18:05:51 CEST 2022","Wed Aug 10 18:05:53 CEST 2022","2622","","update_billing_test","TestUpdateBillingAddress","","","test_update_billing_address",""
+"passed","Wed Aug 10 18:05:29 CEST 2022","Wed Aug 10 18:05:32 CEST 2022","2899","","create_account_test","TestCreateAccount","","","test_create_account_passed",""
